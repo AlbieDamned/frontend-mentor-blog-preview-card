@@ -122,7 +122,7 @@ main {
   color: hsl(228, 45%, 44%);
 } */
 
-@media (max-width: 375px) {
+@media (max-width: 24em) {
   :root {
     --fs-small: 0.75rem;
     --fs-regular: 0.875rem;
